@@ -261,7 +261,7 @@ main {
 }
 
 .item {
-   
+    background: black;
     width: 100%;
     border-bottom: 50px solid;
 }
